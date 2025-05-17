@@ -2,6 +2,7 @@
 <div align='center'>
   <h3 align='center'><a href='https://www.linkedin.com/in/marlonfiguereo/'>LinkedIn</a> 👋</h3>
 </div>
+
 <div>
   <h1>About me!</h1>
   <ul>
@@ -9,9 +10,6 @@
     <li>Aspiring Data Analyst 📊</li>
     <li>Computer Systems Engineering Student 💻</li>
   </ul>
-  - Software Quality Assurance Intern 🛠
-  - Aspiring Data Analyst 📊
-  - Computer Systems Engineering Student 💻
   <br>
 </div>
 
