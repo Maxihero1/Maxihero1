@@ -1,6 +1,6 @@
-<img src='https://media.licdn.com/dms/image/v2/D4E16AQF0fve1fRDwKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724368706714?e=1752710400&v=beta&t=VMLiurlaDSb4_KhloHQH4x5DSuZsebVLM0oMfB1W57Y'>
 <div align='center'>
-  <h3 align='center'><a href='https://www.linkedin.com/in/marlonfiguereo/'>LinkedIn</a> 👋</h3>
+  <img src='https://media.licdn.com/dms/image/v2/D4E16AQF0fve1fRDwKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724368706714?e=1752710400&v=beta&t=VMLiurlaDSb4_KhloHQH4x5DSuZsebVLM0oMfB1W57Y'>
+  <h3 align='center'><a href='https://www.linkedin.com/in/marlonfiguereo/'>My LinkedIn Profile</a> 💼</h3>
 </div>
 
 <div>
