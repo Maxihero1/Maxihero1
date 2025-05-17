@@ -1,4 +1,6 @@
-## Hey, soy Marlon 👋
+<div align='center'>
+  <h1 align='center'>Hola, soy <a href'https://www.linkedin.com/in/marlonfiguereo/'>Marlon Figuereo</a> 👋</h1>
+</div>
 
 <!--
 **Maxihero1/Maxihero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
