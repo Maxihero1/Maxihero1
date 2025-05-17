@@ -2,7 +2,18 @@
 <div align='center'>
   <h3 align='center'><a href='https://www.linkedin.com/in/marlonfiguereo/'>LinkedIn</a> 👋</h3>
 </div>
-
+<div>
+  <h1>About me!</h1>
+  <ul>
+    <li>Software Quality Assurance Intern 🛠</li>
+    <li>Aspiring Data Analyst 📊</li>
+    <li>Computer Systems Engineering Student 💻</li>
+  </ul>
+  - Software Quality Assurance Intern 🛠
+  - Aspiring Data Analyst 📊
+  - Computer Systems Engineering Student 💻
+  <br>
+</div>
 
 <!--
 **Maxihero1/Maxihero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
