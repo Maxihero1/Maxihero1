@@ -4,13 +4,13 @@
 </div>
 
 <div>
-  <h1>About me!</h1>
-  <ul>
-    <li>Software Quality Assurance Intern 🛠</li>
-    <li>Aspiring Data Analyst 📊</li>
-    <li>Computer Systems Engineering Student 💻</li>
+  <h1>About Me</h1>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>🔧 Tech Intern at Babel, supporting software development and QA</li>
+    <li>📊 Aspiring Data Analyst with a focus on Business Intelligence</li>
+    <li>💻 Computer Systems Engineering Student at Universidad APEC (7th semester)</li>
+    <li>📈 Knowledge of Lean Manufacturing, Data Analysis, and Process Optimization</li>
   </ul>
-  <br>
 </div>
 
 <!--
