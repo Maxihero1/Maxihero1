@@ -1,10 +1,9 @@
 <div align='center'>
   <img src='https://media.licdn.com/dms/image/v2/D4E16AQF0fve1fRDwKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724368706714?e=1752710400&v=beta&t=VMLiurlaDSb4_KhloHQH4x5DSuZsebVLM0oMfB1W57Y'>
-  <h3 align='center'><a href='https://www.linkedin.com/in/marlonfiguereo/'>My LinkedIn Profile</a> 💼</h3>
 </div>
 
 <div>
-  <h1>About Me</h1>
+  <h1 align='center'>About Me</h1>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>🔧 Tech Intern at Babel, supporting software development and QA</li>
     <li>📊 Aspiring Data Analyst with a focus on Business Intelligence</li>
