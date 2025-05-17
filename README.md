@@ -1,6 +1,8 @@
 <div align='center'>
   <h1 align='center'>Hola, soy <a href='https://www.linkedin.com/in/marlonfiguereo/'>Marlon Figuereo</a> 👋</h1>
 </div>
+<img src='https://media.licdn.com/dms/image/v2/D4E16AQF0fve1fRDwKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724368706714?e=1752710400&v=beta&t=VMLiurlaDSb4_KhloHQH4x5DSuZsebVLM0oMfB1W57Y'>
+
 
 <!--
 **Maxihero1/Maxihero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
