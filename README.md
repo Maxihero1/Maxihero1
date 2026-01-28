@@ -6,7 +6,7 @@
   <h1 align='center'>About Me</h1>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>🔧 Software Quality Assurance Engineer at Babel, supporting software development and QA</li>
-    <li>📊 Aspiring Data Analyst with a focus on Business Intelligence</li>
+    <li>📊 Aspiring Data Engineer with a focus on Cloud Services</li>
     <li>💻 Computer Systems Engineering Student at Universidad APEC</li>
     <li>📈 Knowledge of Lean Manufacturing, Data Analysis, and Process Optimization</li>
   </ul>
