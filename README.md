@@ -16,7 +16,7 @@
 <br clear="both">
 
 <div align="center">
-  <h2>Tech stack</h2>
+  <h1>Tech stack</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo"  />
