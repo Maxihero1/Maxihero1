@@ -11,7 +11,7 @@
 <br clear="both">
 
 <div>
-  <h1 align='center'>🧠 About Me</h1>
+  <h2 align='center'>🧠 About Me</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>🛠️ Top skills: <b>Python</b>, <b>SQL</b>, <b>Data</b></li>
     <li>📊 Aspiring Data Engineer with a focus on Cloud Services</li>
@@ -23,7 +23,7 @@
 <br clear="both">
 
 <div align="center">
-  <h1>🔧 Tech Stack</h1>
+  <h2>🔧 Tech Stack</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="python logo"  />
